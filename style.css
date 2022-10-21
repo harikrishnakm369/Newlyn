@@ -1,0 +1,72 @@
+
+.newlyn{
+    font-family: franklin gothic medium;
+    font-size: 30px;
+    margin-top: -35px;
+}
+.option{
+    font-family: sans-serif;
+}
+.heading{
+cursor: pointer;
+    width: 100%;
+    margin-top: -27px;
+background-color: #242424;
+ color:rgb(175, 235, 230);   
+font-family:  sans-serif;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-bottom: 0px;
+padding-top: 45px;
+}
+.head p{
+    font-size: 50px; ;
+}
+.paragraph p{
+    font-size: 25px;
+    margin-top: -40;
+
+}
+.para{
+    padding-left: 380px;
+    margin-top: -4px;
+    background-color:#242424;
+    color: rgb(175, 235, 230);
+    margin-bottom: 20px;
+    padding-bottom: 24px;
+}
+.images1 img{
+    margin-top: -23px;
+    margin-bottom: -5px;
+  
+}
+.unilever{
+    margin-top: -4px;
+}
+.footer{
+margin-top: -4px;
+    width: 100%;
+    background-color: #242424;
+    display: flex;
+    flex-direction: row;
+    color: blueviolet;
+ font-weight: bold;
+ padding-right: 400px;
+ font-family: 'Times New Roman';
+ margin-bottom: -30px;
+}
+.first{
+    padding-left: 100px;
+
+}
+.second{
+    padding-left: 230px ;
+    
+}
+.third{
+    padding-left: 230px ;
+}
+.forth{
+    padding-left: 220px ;
+}
